@@ -7,8 +7,8 @@
     <ProjectGuid>{A9751580-7D49-4B0B-8311-D2C516EB8D77}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Saltbot.DiscordClient</RootNamespace>
-    <AssemblyName>Saltbot.DiscordClient</AssemblyName>
+    <RootNamespace>Saltbot.Discord</RootNamespace>
+    <AssemblyName>Saltbot.Discord</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -46,6 +46,7 @@
       <HintPath>..\packages\NLog.4.4.12\lib\net45\NLog.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />

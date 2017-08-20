@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaltBot.ConsoleApp", "Saltbot.ConsoleApp\SaltBot.ConsoleApp.csproj", "{0EC6F79F-6A84-40E3-9D0B-EF784A2281F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saltbot.DiscordClient", "Saltbot.DiscordClient\Saltbot.DiscordClient.csproj", "{A9751580-7D49-4B0B-8311-D2C516EB8D77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saltbot.Discord", "Saltbot.Discord\Saltbot.Discord.csproj", "{A9751580-7D49-4B0B-8311-D2C516EB8D77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
